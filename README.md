@@ -24,3 +24,5 @@ Memahami impact dari discount pada penjualan dan keuntungan adalah hal yang cruc
 - Descriptive Analysis, Membuat graph dan menganalisisnya
 - Inferential Analysis, Secara Statistik menentukan hubungan antar variabel
 - Kesimpulan dan Suggestion
+
+[link](https://docs.google.com/presentation/d/1oeftHAEiSxyv0_1Y9CwE2RKVstvz8VMO6zzALmA71nw/edit?usp=sharing)
